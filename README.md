@@ -1,4 +1,4 @@
-# reviewing-plans
+# Reviewing Plans Skill
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that reviews AI-generated implementation plans before execution — catching scope creep, vague steps, missing verification, and hidden risks before they become problems.
 
